@@ -1,9 +1,1 @@
-{
-	"version": 3,
-	"file": "style.css",
-	"sources": [
-		"../sass/style.scss"
-	],
-	"names": [],
-	"mappings": ""
-}
+{"version":3,"sources":["../sass/style.scss"],"names":[],"mappings":"AAAA,gEAAY;AAEZ,OACE,wBAAuB,CACvB,+BAA8B,EAC/B;;AACD,KACE,eAAc,CACd,gBAAe,CACf,mBAAkB,EACnB;;AACD,UACE,YAAW,CACX,aAAY,CACZ,0BAAyB,CACzB,mBAAkB,CAClB,iBAAgB,CAChB,mBAAkB,CAClB,kBAAiB,CACjB,cAAa,CACb,iBAAgB,EACjB;;AACD,eACE,cAAa,CACb,iBAAgB,CAChB,sBAAqB,EACtB;;AACD,qBACE,wBAAuB,CACvB,iBAAgB,CAChB,gBAAe,CACf,0BAAyB,CACzB,oBAAmB,CACnB,cAAa,EACd;;AACD,wBACE,mBAAkB,EACnB;;AACD,YACE,oBAAmB,CACnB,gBAAe,CACf,wBAAuB,CACvB,aAAY,EACb;;AACD,cACE,aAAY,CACZ,gBAAe,CACf,mBAAkB,EACnB;;AACD,iBACE,gBAAe,CACf,gBAAe,CACf,mBAAkB,CAClB,wBAAuB,CACvB,aAAY,EACb","file":"style.css"}

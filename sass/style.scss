@@ -1,16 +1,24 @@
-@import url("https://fonts.googleapis.com/css?family=Coustard");
+@import url("https://fonts.googleapis.com/css?family=Quicksand");
 
 body {
   background-color: green;
-  font-family: "Coustard", serif;
+  font-family: "Quicksand", serif;
 }
 h1 {
   color: #bfed37;
   font-size: 60px;
   text-align: center;
 }
+
+.column-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
 .column {
-  float: left;
+  display: flex;
+  flex-direction: column;
   width: 250px;
   background-color: #bfed37;
   border-radius: 5px;
@@ -43,7 +51,7 @@ h1 {
   color: white;
 }
 .btn-delete {
-  float: right;
+  //float: right;
   font-size: 10px;
   border-radius: 7px;
 }

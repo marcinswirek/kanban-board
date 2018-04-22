@@ -98,7 +98,7 @@ $(function() {
   function initSortable() {
     $(".column-list")
       .sortable({
-        //column-card-list ;)
+        //column-card-list
         connectWith: ".column-list",
         placeholder: "card-placeholder"
       })

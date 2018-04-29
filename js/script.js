@@ -2,7 +2,7 @@ $(function() {
   function randomString() {
     var chars = "0123456789abcdefghiklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXTZ";
     var str = "";
-    for (i = 0; i < 10; i++) {
+    for (var i = 0; i < 10; i++) {
       str += chars[Math.floor(Math.random() * chars.length)];
     }
     return str;
